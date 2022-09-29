@@ -12,7 +12,7 @@ font-family: 'DM Sans', sans-serif;
 .hero{
     background-color: var(--main-primary-color);
     min-height: 100vh;
-    background-image: url('/img/hero-background.png');
+    background-image: url('img/hero-background.png');
     padding-top: 3rem;
 }
 
@@ -85,7 +85,7 @@ font-family: 'DM Sans', sans-serif;
     padding-top: 4rem;
     padding-bottom: 4rem;
     background-size: cover;
-    background-image: url('/img/hero-background.png');
+    background-image: url('img/hero-background.png');
 }
 .about-section h3{
     font-size: 4.5rem;
